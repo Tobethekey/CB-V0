@@ -1,1 +1,12 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000000000000000000000000000000000000..7ba4f198d7a37062cc104977c488d6844aeb3f58
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,5 @@
++node_modules
++pnpm-debug.log*
++.DS_Store
++.env
++server/.env
 
